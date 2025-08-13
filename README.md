@@ -1,5 +1,5 @@
 # random_quotes.py
-import random
+import rando
 
 quotes = [
     "امروز بهترین روز برای شروعه.",
